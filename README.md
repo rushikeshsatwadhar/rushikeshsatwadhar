@@ -150,7 +150,6 @@ I'm actively looking for **remote DevOps / Cloud Engineer** roles in India (5 - 
 If you're hiring or know someone who is — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushikeshsatwadhar)
-
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
 
 ---
