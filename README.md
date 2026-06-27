@@ -70,7 +70,7 @@ Network Engineer with **2 years of hands-on experience** in configuring, monitor
 
 ## 📂 DevOps Projects
 
-### 🏗️ [aws-3tier-terraform](https://github.com/ashutosh1998github/aws-3tier-terraform)
+### 🏗️ [aws-3tier-terraform]
 > **AWS · Terraform · EC2 · VPC · RDS · ALB · IAM**
 
 Production-ready 3-tier AWS architecture provisioned entirely with Terraform modules.
@@ -81,7 +81,7 @@ Production-ready 3-tier AWS architecture provisioned entirely with Terraform mod
 
 ---
 
-### 🚀 [cicd-jenkins-pipeline](https://github.com/ashutosh1998github/cicd-jenkins-pipeline)
+### 🚀 [cicd-jenkins-pipeline]
 > **Jenkins · Docker · AWS ECR · EC2 · GitHub Actions · Trivy**
 
 End-to-end CI/CD pipeline — zero manual steps from code push to production deploy.
@@ -92,7 +92,7 @@ End-to-end CI/CD pipeline — zero manual steps from code push to production dep
 
 ---
 
-### ☸️ [kubernetes-eks-deployment](https://github.com/ashutosh1998github/kubernetes-eks-deployment)
+### ☸️ [kubernetes-eks-deployment]
 > **Kubernetes · AWS EKS · Terraform · Helm · Kustomize · HPA**
 
 Production-grade Kubernetes deployment with zero-downtime rolling updates and auto-scaling.
@@ -104,7 +104,7 @@ Production-grade Kubernetes deployment with zero-downtime rolling updates and au
 
 ---
 
-### 📊 [devops-monitoring-datadog](https://github.com/ashutosh1998github/devops-monitoring-datadog)
+### 📊 [devops-monitoring-datadog]
 > **Datadog · Terraform · DaemonSet · Synthetics · Log Pipelines**
 
 Full observability stack — metrics, logs, traces, uptime checks, and alerts as code.
@@ -129,3 +129,32 @@ Full observability stack — metrics, logs, traces, uptime checks, and alerts as
 </div>
 
 ---
+
+## 💼 Work Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Network Engineer | TCL | Aug 2023 – Aug 2025 |
+
+---
+
+## 🎓 Education
+
+- **B.E in Computer Science & Engineering** —  Marathwada Institute of Technology (MIT), Aurangabad  | CGPA: 7.2
+
+---
+
+## 📬 Let's Connect
+
+I'm actively looking for **remote DevOps / Cloud Engineer** roles in India (5 - 7 LPA+).
+If you're hiring or know someone who is — let's talk!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushikeshsatwadhar)
+
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
+
+---
+
+<div align="center">
+<i>⭐ If you find my projects useful, consider giving them a star — it helps others discover them!</i>
+</div>
