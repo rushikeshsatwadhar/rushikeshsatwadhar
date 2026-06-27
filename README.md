@@ -1,44 +1,131 @@
-# 💫 Hi 👋, I'm Rushikesh Satwadhar
-**Cloud Engineer || DevOps Engineer || Automation Enthusiast**
-
-Email Me 👉 ✉️ **rushisatwadhar23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on**: Actively seeking opportunities in DevOps and Cloud Engineering.
-- 🌱 **I’m currently learning:** Advanced CI/CD pipelines, Kubernetes orchestration, and AWS Cloud architecture.
-- 👯 **I’m looking to collaborate on:** Open-source DevOps tools, automation scripts, and infrastructure-as-code projects.
-- 🤔 **I’m looking for help with:** Mastering complex microservices monitoring and serverless deployments.
-- 💬 **Ask me about:** AWS Cloud, Linux administration, Docker containerization, and Network Engineering basics.
-- 📫 **How to reach me:** rushisatwadhar23@gmail.com
-- 😄 **Pronouns:** He/Him Rushikesh
-- ⚡ **Fun fact:** "I speak fluent Linux, Cloud, and Automation; I’m basically a tech polyglot."
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rushikeshsatwadhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devops_engineer07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikeshsatwadhar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@devops_engineer07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rushikeshsatwadhar&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rushikeshsatwadhar&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rushikeshsatwadhar&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# 👋 Hi, I'm Rushikesh Satwadhar
+
+### DevOps Engineer | AWS · Kubernetes · Terraform · Jenkins · Docker
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushikeshsatwadhar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Pune,_India-Remote_Open-28a745?style=for-the-badge)](#)
+
 </div>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rushikeshsatwadhar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 About Me
+
+Network Engineer with **2 years of hands-on experience** in configuring, monitoring, and troubleshooting enterprise network infrastructure. Currently developing expertise in DevOps and Cloud technologies, with practical experience in AWS, Terraform, Docker, Jenkins, Git, and Linux. Built hands-on projects to automate infrastructure provisioning and CI/CD pipelines, with a strong interest in cloud infrastructure, automation, and containerization. Continuously expanding my knowledge of Kubernetes and cloud-native technologies.
+
+- 🔭 Currently: Building DevOps infrastructure on AWS + Kubernetes
+- 🌱 Focus: Cloud-native architecture, IaC, and platform engineering
+- 💬 Ask me about: AWS, Terraform, Docker, Kubernetes, Jenkins, CI/CD
+- 📫 Reach me: rushisatwadhar23@gmail.com
+- ⚡ Open to: Remote DevOps / Cloud Engineer roles across India
 
 ---
-[![](https://komarev.com/ghpvc/?username=rushikeshsatwadhar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### ⚙️ DevOps & Automation
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+### 🐧 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🔀 Source Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 💻 Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square&logo=icloud&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square&logo=cloudflare&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-FF6F00?style=flat-square&logo=serverfault&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-0A66C2?style=flat-square&logo=cisco&logoColor=white)
+![Switching](https://img.shields.io/badge/Switching-005073?style=flat-square&logo=cisco&logoColor=white)
+
+---
+
+## 📂 DevOps Projects
+
+### 🏗️ [aws-3tier-terraform](https://github.com/ashutosh1998github/aws-3tier-terraform)
+> **AWS · Terraform · EC2 · VPC · RDS · ALB · IAM**
+
+Production-ready 3-tier AWS architecture provisioned entirely with Terraform modules.
+- VPC with public (Web), private (App), and isolated (DB) subnets across 2 AZs
+- Auto Scaling Groups with CPU-based scaling policy (scales at 70% CPU)
+- ALB with health checks, RDS MySQL with encrypted storage
+- IAM roles with least-privilege, SSM Session Manager (no SSH needed)
+
+---
+
+### 🚀 [cicd-jenkins-pipeline](https://github.com/ashutosh1998github/cicd-jenkins-pipeline)
+> **Jenkins · Docker · AWS ECR · EC2 · GitHub Actions · Trivy**
+
+End-to-end CI/CD pipeline — zero manual steps from code push to production deploy.
+- 10-stage pipeline: Checkout → Lint → Test → Docker Build → Trivy Scan → ECR Push → Deploy → Health Check → Notify
+- Multi-stage Dockerfile (60% smaller final image, no devDependencies in prod)
+- Branch strategy: `feature/*` → test only | `develop` → staging | `main` → production
+- Slack notifications on every build (pass and fail)
+
+---
+
+### ☸️ [kubernetes-eks-deployment](https://github.com/ashutosh1998github/kubernetes-eks-deployment)
+> **Kubernetes · AWS EKS · Terraform · Helm · Kustomize · HPA**
+
+Production-grade Kubernetes deployment with zero-downtime rolling updates and auto-scaling.
+- Liveness + Readiness + Startup probes on all pods
+- HPA auto-scales 2→10 pods based on CPU (70%) and memory (80%)
+- Kustomize overlays: dev (1 replica) and prod (3 replicas) from one base
+- PodDisruptionBudget ensures minimum availability during cluster upgrades
+- EKS cluster provisioned with Terraform, OIDC for IRSA
+
+---
+
+### 📊 [devops-monitoring-datadog](https://github.com/ashutosh1998github/devops-monitoring-datadog)
+> **Datadog · Terraform · DaemonSet · Synthetics · Log Pipelines**
+
+Full observability stack — metrics, logs, traces, uptime checks, and alerts as code.
+- 8 production monitors (CPU, memory, error rate, latency, pod crashes, RDS, disk)
+- Synthetic uptime checks from Mumbai, Singapore, and US every 60 seconds
+- Datadog DaemonSet on EKS — 1 agent per node, full cluster visibility
+- Log pipelines with Grok parsers, GeoIP enrichment, HTTP status categorisation
+- All dashboards and monitors managed via Terraform (Monitoring as Code)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1998github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1998github&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ashutosh1998github&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
