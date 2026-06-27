@@ -4,7 +4,7 @@
 
 ### DevOps Engineer | AWS · Kubernetes · Terraform · Jenkins · Docker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshsatwadhar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushikeshsatwadhar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Pune,_India-Remote_Open-28a745?style=for-the-badge)](#)
 
@@ -120,11 +120,11 @@ Full observability stack — metrics, logs, traces, uptime checks, and alerts as
 
 <div align="center">
 
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1998github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikeshsatwadhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1998github&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshsatwadhar&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ashutosh1998github&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rushikeshsatwadhar&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -150,6 +150,7 @@ I'm actively looking for **remote DevOps / Cloud Engineer** roles in India (5 - 
 If you're hiring or know someone who is — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushikeshsatwadhar)
+
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
 
 ---
