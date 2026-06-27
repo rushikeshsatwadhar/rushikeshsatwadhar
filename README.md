@@ -4,7 +4,7 @@
 
 ### DevOps Engineer | AWS · Kubernetes · Terraform · Jenkins · Docker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushikeshsatwadhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshsatwadhar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Pune,_India-Remote_Open-28a745?style=for-the-badge)](#)
 
