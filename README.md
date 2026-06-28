@@ -16,11 +16,11 @@
 
 Network Engineer with **2 years of hands-on experience** in configuring, monitoring, and troubleshooting enterprise network infrastructure. Currently developing expertise in DevOps and Cloud technologies, with practical experience in AWS, Terraform, Docker, Jenkins, Git, and Linux. Built hands-on projects to automate infrastructure provisioning and CI/CD pipelines, with a strong interest in cloud infrastructure, automation, and containerization. Continuously expanding my knowledge of Kubernetes and cloud-native technologies.
 
-- 🔭 Currently: Building DevOps infrastructure on AWS + Kubernetes
-- 🌱 Focus: Cloud-native architecture, IaC, and platform engineering
-- 💬 Ask me about: AWS, Terraform, Docker, Kubernetes, Jenkins, CI/CD
-- 📫 Reach me: rushisatwadhar23@gmail.com
-- ⚡ Open to: Remote DevOps / Cloud Engineer roles across India
+🔭 Currently: Learning and building hands-on DevOps projects using AWS, Terraform, Docker, Jenkins, and Kubernetes
+🌱 Focus: DevOps, Cloud Computing, Infrastructure as Code (IaC), CI/CD, and Kubernetes
+💬 Ask me about: Networking, AWS, Terraform, Docker, Jenkins, Linux, Git, Kubernetes, CI/CD
+📫 Reach me: rushisatwadhar23@gmail.com
+⚡ Open to: DevOps Engineer | Cloud Engineer | Platform Engineer | Remote & On-site opportunities across India
 
 ---
 
