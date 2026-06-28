@@ -28,7 +28,7 @@ Network Engineer with **2 years of hands-on experience** in configuring, monitor
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="20" height="20"/> ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF6A00?style=flat-square&logo=amazonaws&logoColor=white)
