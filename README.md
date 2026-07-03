@@ -70,14 +70,29 @@ Network Engineer with **2 years of hands-on experience** in configuring, monitor
 
 ## 📂 DevOps Projects
 
-### 🏗️ [aws-3tier-terraform]
-> **AWS · Terraform · EC2 · VPC · RDS · ALB · IAM**
+### 🏗️ [AWS 3-Tier Architecture with Terraform]
+Tech Stack: AWS • Terraform • EC2 • VPC • RDS • ALB • IAM • Auto Scaling 
 
-Production-ready 3-tier AWS architecture provisioned entirely with Terraform modules.
-- VPC with public (Web), private (App), and isolated (DB) subnets across 2 AZs
-- Auto Scaling Groups with CPU-based scaling policy (scales at 70% CPU)
-- ALB with health checks, RDS MySQL with encrypted storage
-- IAM roles with least-privilege, SSM Session Manager (no SSH needed)
+Designed and provisioned a production-ready 3-tier AWS infrastructure using reusable Terraform modules, following Infrastructure as Code (IaC) best practices.
+
+### 🚀 Key Features
+
+* Provisioned a **production-ready AWS 3-tier architecture** using **Terraform**.
+* Built a custom **VPC** with public, private, and database subnets across **2 Availability Zones**.
+* Configured **Application Load Balancer (ALB)** and **EC2 Auto Scaling Groups** for high availability and scalability.
+* Deployed **Amazon RDS MySQL** in private subnets with encrypted storage.
+* Implemented **IAM least-privilege** access and **AWS Systems Manager (SSM)** for secure, SSH-free instance management.
+* Developed **modular and reusable Terraform code** following Infrastructure as Code (IaC) best practices.
+
+🛠️ Technologies Used
+- Terraform
+- AWS EC2
+- Amazon VPC
+- Application Load Balancer (ALB)
+- Auto Scaling Groups
+- Amazon RDS (MySQL)
+- IAM
+- AWS Systems Manager (SSM)
 
 ---
 
