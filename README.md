@@ -86,13 +86,18 @@ Designed and provisioned a production-ready 3-tier AWS infrastructure using reus
 
 🛠️ Technologies Used
 - Terraform
-- AWS EC2
+- AWS
 - Amazon VPC
+- Public & Private Subnets
+- EC2
 - Application Load Balancer (ALB)
-- Auto Scaling Groups
-- Amazon RDS (MySQL)
-- IAM
-- AWS Systems Manager (SSM)
+- Security Groups
+- Internet Gateway
+- NAT Gateway
+- Elastic IP
+- Route Tables
+- MySQL
+- Apache Web Server
 
 ---
 
