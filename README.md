@@ -24,6 +24,12 @@ Network Engineer with **2 years of hands-on experience** in configuring, monitor
 
 ---
 
+## 😎 Profile Views
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rushikeshsatwadhar&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshsatwadhar" /></p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
