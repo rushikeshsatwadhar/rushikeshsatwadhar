@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Rushikesh Satwadhar
+<h1 align="center">Hi 👋, I'm Rushikesh Satwadhar</h1>
 
-### DevOps Engineer | AWS · Kubernetes · Terraform · Jenkins · Docker
+<h3 align="center">DevOps • Cloud • Automation • Infrastructure as Code</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=850&lines=AWS+Cloud+Engineer;DevOps+Engineer;Kubernetes+Administrator;Docker+Containerization;Terraform+%7C+Ansible;Jenkins+CI%2FCD;Linux+Automation+with+Bash;Always+Learning+New+Technologies" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rushikeshsatwadhar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
@@ -21,56 +25,44 @@ Network Engineer with **2 years of hands-on experience** in configuring, monitor
 - 💬 Ask me about: Networking, AWS, Terraform, Docker, Jenkins, Linux, Git, Kubernetes, CI/CD
 - 📫 Reach me: rushisatwadhar23@gmail.com
 - ⚡ Open to: DevOps Engineer | Cloud Engineer | Platform Engineer | Remote & On-site opportunities across India
+___
 
----
+## 👀 Profile Views
 
-## 😎 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rushikeshsatwadhar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rushikeshsatwadhar&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshsatwadhar" /></p>
-
----
+___
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-CC8400?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<p align="center">
 
-### ⚙️ DevOps & Automation
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux" />&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" />&nbsp;
+<img src="https://skillicons.dev/icons?i=github" />&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" />&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;
+<img src="https://cdn.simpleicons.org/helm/0F1689" width="48" height="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="48" height="48" />&nbsp;
+<img src="https://skillicons.dev/icons?i=jenkins" />&nbsp;
+<img src="https://skillicons.dev/icons?i=terraform" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ansible" />&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nginx" />&nbsp;
+<img src="https://skillicons.dev/icons?i=prometheus" />&nbsp;
+<img src="https://skillicons.dev/icons?i=grafana" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
+<img src="https://skillicons.dev/icons?i=java" />&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" />&nbsp;
+<img src="https://skillicons.dev/icons?i=python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ubuntu" />
 
-### 📊 Monitoring & Observability
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### 🐧 OS & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### 🔀 Source Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 💻 Networking
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square&logo=icloud&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square&logo=cloudflare&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-FF6F00?style=flat-square&logo=serverfault&logoColor=white)
-![Routing](https://img.shields.io/badge/Routing-0A66C2?style=flat-square&logo=cisco&logoColor=white)
-![Switching](https://img.shields.io/badge/Switching-005073?style=flat-square&logo=cisco&logoColor=white)
+</p>
 
 ---
 
@@ -142,19 +134,25 @@ Full observability stack — metrics, logs, traces, uptime checks, and alerts as
 
 ---
 
-## 📈 GitHub Stats
+---
 
-<div align="center">
+## 🔥 GitHub Streak
 
-![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikeshsatwadhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshsatwadhar&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=rushikeshsatwadhar&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rushikeshsatwadhar&theme=tokyonight&hide_border=true)
-
-</div>
+</p>
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshsatwadhar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+___
 
 ## 💼 Work Experience
 
