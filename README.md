@@ -83,40 +83,41 @@ Built an end-to-end DevOps CI/CD pipeline for a Netflix Clone Java Web Applicati
 
 ---
 
-### 🚀 [cicd-jenkins-pipeline]
-> **Jenkins · Docker · AWS ECR · EC2 · GitHub Actions · Trivy**
+### 🛠️  [AWS Infrastructure Automation Using Terraform & Ansible]
+> **Tech Stack: Terraform → AWS → EC2 → Ubuntu → Ansible → Nginx → HTML**
 
-End-to-end CI/CD pipeline — zero manual steps from code push to production deploy.
-- 10-stage pipeline: Checkout → Lint → Test → Docker Build → Trivy Scan → ECR Push → Deploy → Health Check → Notify
-- Multi-stage Dockerfile (60% smaller final image, no devDependencies in prod)
-- Branch strategy: `feature/*` → test only | `develop` → staging | `main` → production
-- Slack notifications on every build (pass and fail)
+## 🔗 [GitHub Repository](https://github.com/rushikeshsatwadhar/terraform-with-ansible)
 
----
+Automated AWS infrastructure provisioning and multi-environment server configuration using Terraform and Ansible.
 
-### ☸️ [kubernetes-eks-deployment]
-> **Kubernetes · AWS EKS · Terraform · Helm · Kustomize · HPA**
-
-Production-grade Kubernetes deployment with zero-downtime rolling updates and auto-scaling.
-- Liveness + Readiness + Startup probes on all pods
-- HPA auto-scales 2→10 pods based on CPU (70%) and memory (80%)
-- Kustomize overlays: dev (1 replica) and prod (3 replicas) from one base
-- PodDisruptionBudget ensures minimum availability during cluster upgrades
-- EKS cluster provisioned with Terraform, OIDC for IRSA
+- Provisioned AWS infrastructure automatically using Terraform (Infrastructure as Code).
+- Automated server configuration with Ansible, including Nginx installation and setup.
+- Deployed environment-specific web pages for Development, POD, and Staging environments.
+- Implemented a multi-environment deployment strategy to simulate a real-world DevOps workflow.
+- Demonstrated end-to-end infrastructure provisioning and configuration management using Terraform, Ansible, and AWS.
 
 ---
 
-### 📊 [devops-monitoring-datadog]
-> **Datadog · Terraform · DaemonSet · Synthetics · Log Pipelines**
+### ☸️ [kubernetes Kind Voting App]
+> **Tech Stack: AWS EC2 → Ubuntu → Docker → Kind → Kubernetes → kubectl → Argo CD → GitHub → GitOps*
 
-Full observability stack — metrics, logs, traces, uptime checks, and alerts as code.
-- 8 production monitors (CPU, memory, error rate, latency, pod crashes, RDS, disk)
-- Synthetic uptime checks from Mumbai, Singapore, and US every 60 seconds
-- Datadog DaemonSet on EKS — 1 agent per node, full cluster visibility
-- Log pipelines with Grok parsers, GeoIP enrichment, HTTP status categorisation
-- All dashboards and monitors managed via Terraform (Monitoring as Code)
+## 🔗 [GitHub Repository](https://github.com/rushikeshsatwadhar/k8s-kind-voting-app)
+
+Built a Kubernetes GitOps platform on AWS EC2 using Kind, Docker, Kubernetes, and Argo CD to automate application deployment and cluster management.
+
+- Provisioned a Kubernetes cluster on AWS EC2 using Kind.
+- Installed and configured Argo CD for GitOps-based continuous deployment.
+- Deployed the Kubernetes Voting Application using automated GitOps workflows.
+- Configured kubectl and Kubernetes Dashboard for cluster management and monitoring.
+- Demonstrated an end-to-end Kubernetes deployment using Docker, Kind, Kubernetes, and Argo CD.
 
 ---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshsatwadhar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -129,6 +130,7 @@ Full observability stack — metrics, logs, traces, uptime checks, and alerts as
 </p>
 
 ---
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -136,7 +138,8 @@ Full observability stack — metrics, logs, traces, uptime checks, and alerts as
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshsatwadhar&theme=tokyo-night&hide_border=true"/>
 
 </p>
-___
+
+---
 
 ## 💼 Work Experience
 
