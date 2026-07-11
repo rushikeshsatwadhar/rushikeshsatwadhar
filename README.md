@@ -68,34 +68,18 @@ ___
 
 ## 📂 DevOps Projects
 
-### 🏗️ [AWS 3-Tier Architecture with Terraform]
-Tech Stack: AWS • Terraform • EC2 • VPC • RDS • ALB • IAM • Auto Scaling 
+### 🚀 [Complete DevOps CI/CD Pipeline Project - Clone Netflix]
+> **Tech Stack: GitHub → Jenkins → Maven → Apache Tomcat → Prometheus → Grafana**
 
-Designed and provisioned a production-ready 3-tier AWS infrastructure using reusable Terraform modules, following Infrastructure as Code (IaC) best practices.
+## 🔗 [GitHub Repository](https://github.com/rushikeshsatwadhar/java-project)
 
-### 🚀 Key Features
+Built an end-to-end DevOps CI/CD pipeline for a Netflix Clone Java Web Application, automating the build, deployment, and monitoring process using industry-standard DevOps tools.
 
-* Provisioned a **production-ready AWS 3-tier architecture** using **Terraform**.
-* Built a custom **VPC** with public, private, and database subnets across **2 Availability Zones**.
-* Configured **Application Load Balancer (ALB)** and **EC2 Auto Scaling Groups** for high availability and scalability.
-* Deployed **Amazon RDS MySQL** in private subnets with encrypted storage.
-* Implemented **IAM least-privilege** access and **AWS Systems Manager (SSM)** for secure, SSH-free instance management.
-* Developed **modular and reusable Terraform code** following Infrastructure as Code (IaC) best practices.
-
-🛠️ Technologies Used
-- Terraform
-- AWS
-- Amazon VPC
-- Public & Private Subnets
-- EC2
-- Application Load Balancer (ALB)
-- Security Groups
-- Internet Gateway
-- NAT Gateway
-- Elastic IP
-- Route Tables
-- MySQL
-- Apache Web Server
+- Automated CI/CD pipeline using GitHub, Jenkins, and Maven.
+- Integrated GitHub Webhooks to trigger automatic builds on every code push.
+- Deployed the application to Apache Tomcat on an AWS EC2 instance.
+- Monitored application and server health using Prometheus and Grafana.
+- Demonstrated a real-world DevOps workflow from source code management to automated deployment and monitoring.
 
 ---
 
