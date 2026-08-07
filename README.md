@@ -113,31 +113,10 @@ Built a Kubernetes GitOps platform on AWS EC2 using Kind, Docker, Kubernetes, an
 
 ---
 
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshsatwadhar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rushikeshsatwadhar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshsatwadhar&theme=tokyo-night&hide_border=true"/>
-
-</p>
+## 📈 Activity Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshsatwadhar&theme=react-dark&hide_border=true" alt="Activity Graph">
+</div>
 
 ---
 
