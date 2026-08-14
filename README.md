@@ -120,14 +120,6 @@ Built a Kubernetes GitOps platform on AWS EC2 using Kind, Docker, Kubernetes, an
 
 ---
 
-## 💼 Work Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Network Engineer | TCL | Aug 2023 – Aug 2025 |
-
----
-
 ## 🎓 Education
 
 - **B.E in Computer Science & Engineering** —  Marathwada Institute of Technology (MIT), Aurangabad  | CGPA: 7.2
