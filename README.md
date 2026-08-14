@@ -15,16 +15,23 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
-Network Engineer with **2 years of hands-on experience** in configuring, monitoring, and troubleshooting enterprise network infrastructure. Currently developing expertise in DevOps and Cloud technologies, with practical experience in AWS, Terraform, Docker, Jenkins, Git, and Linux. Built hands-on projects to automate infrastructure provisioning and CI/CD pipelines, with a strong interest in cloud infrastructure, automation, and containerization. Continuously expanding my knowledge of Kubernetes and cloud-native technologies.
+AWS Cloud & DevOps Engineer with hands-on experience in **AWS Cloud and DevOps technologies** through practical projects. Experienced in building and automating cloud infrastructure, CI/CD pipelines, containerized applications, Infrastructure as Code, and Kubernetes-based deployments.
 
-- 🔭 Currently: Learning and building hands-on DevOps projects using AWS, Terraform, Docker, Jenkins, and Kubernetes
-- 🌱 Focus: DevOps, Cloud Computing, Infrastructure as Code (IaC), CI/CD, and Kubernetes
-- 💬 Ask me about: Networking, AWS, Terraform, Docker, Jenkins, Linux, Git, Kubernetes, CI/CD
-- 📫 Reach me: rushisatwadhar23@gmail.com
-- ⚡ Open to: DevOps Engineer | Cloud Engineer | Platform Engineer | Remote & On-site opportunities across India
+I enjoy working with cloud technologies, automation, and containerization while continuously expanding my knowledge of **AWS, DevOps, Kubernetes, and cloud-native technologies**.
+
+- 🔭 **Currently:** Building hands-on AWS Cloud & DevOps projects
+- ☁️ **Cloud:** AWS (EC2, VPC, IAM, S3, ECR, EKS, ELB, Route 53, CloudWatch)
+- ⚙️ **DevOps:** Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible
+- 🔄 **CI/CD:** Git, GitHub Actions, Jenkins, Maven
+- 📊 **Monitoring:** Prometheus, Grafana
+- 🔐 **Security & Quality:** SonarQube, Trivy, Checkov
+- 🐧 **OS & Scripting:** Linux, Bash, Python
+- 🌱 **Focus:** AWS Cloud, DevOps, Infrastructure as Code, CI/CD, Kubernetes, and Cloud-Native Technologies
+- 💬 **Ask me about:** AWS, Terraform, Docker, Kubernetes, Jenkins, Linux, Git, and CI/CD
+- 📫 **Reach me:** rushisatwadhar23@gmail.com
+- ⚡ **Open to:** AWS Cloud Engineer | DevOps Engineer | AWS DevOps Engineer | Cloud/DevOps Engineer | Platform Engineer
 ___
 
 ## 👀 Profile Views
