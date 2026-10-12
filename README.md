@@ -13,9 +13,15 @@
 [![Location](https://img.shields.io/badge/📍_Pune,_India-Remote_Open-28a745?style=for-the-badge)](#)
 
 </div>
-
+<p align="center">
+  <img src="./assets/devops-hero.gif" alt="DEVOPS" width="100%" />
+</p>
 ---
-## 🚀 About Me
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
+  &nbsp;About Me&nbsp;
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
+</h2>
 
 AWS Cloud & DevOps Engineer with hands-on experience in **AWS Cloud and DevOps technologies** through practical projects. Experienced in building and automating cloud infrastructure, CI/CD pipelines, containerized applications, Infrastructure as Code, and Kubernetes-based deployments.
 
@@ -119,12 +125,94 @@ Built a Kubernetes GitOps platform on AWS EC2 using Kind, Docker, Kubernetes, an
 - Demonstrated an end-to-end Kubernetes deployment using Docker, Kind, Kubernetes, and Argo CD.
 
 ---
+## 📊 My Github Stats
 
-## 📈 Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshsatwadhar&theme=react-dark&hide_border=true" alt="Activity Graph">
-</div>
+<h3 align="center">
+  <a href="https://github.com/rushikeshsatwadhar">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" />
+  </a>
+  <a href="https://github.com/rushikeshsatwadhar">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  </a>
+  【﻿Ｓｔａｔｓ】
+</h3>
 
+<p align="center">
+  <a href="https://github.com/rushikeshsatwadhar/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rushi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshsatwadhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rushikeshsatwadhar">
+    <img align="center" src="https://img.shields.io/github/followers/rushikeshsatwadhar?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rushikeshsatwadhar">
+    <img align="middle" width="48%" alt="Rushikesh GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rushikeshsatwadhar&show_icons=true&count_private=true&line_height=27&rank_icon=github&theme=algolia&hide_border=true" />
+  </a>
+  <a href="https://github.com/rushikeshsatwadhar">
+    <img align="middle" width="44%" alt="Rushikesh most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshsatwadhar&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" />
+  </a>
+</p>
+
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+
+  <div align="center">
+    <a href="https://github.com/rushikeshsatwadhar">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushikeshsatwadhar&theme=algolia" width="100%" alt="Profile details" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/rushikeshsatwadhar">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rushikeshsatwadhar&theme=algolia" width="31%" align="left" alt="Repos per language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rushikeshsatwadhar&theme=algolia" width="31%" align="right" alt="Most commit language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?
+username=rushikeshsatwadhar&theme=algolia" width="31%" align="center" alt="Productive time" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/rushikeshsatwadhar">
+      <img src="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/profile-night-view.svg" alt="3D contribution stats" width="100%" />
+    </a>
+  </div>
+</details>
+
+<p align="center">
+  <a href="https://github.com/rushikeshsatwadhar">
+    <img src="https://github-activity-chart.vercel.app/graph?username=rushikeshsatwadhar&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub activity graph" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rushikeshsatwadhar">
+    <img src="https://trophy.ryglcloud.net/?username=rushikeshsatwadhar&column=4&margin-w=15&margin-h=15&no-frame=true&theme=algolia&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" alt="GitHub trophies" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rushikeshsatwadhar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/github-snake.svg">
+      <img alt="github-snake" src="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/github-snake-dark.svg" width="100%" title="Watch the snake eat my contributions" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rushikeshsatwadhar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/pacman-contribution-graph.svg" width="100%">
+    </picture>
+  </a>
+</p>
+
+<br/>
 ---
 
 ## 🎓 Education
