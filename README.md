@@ -12,11 +12,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Pune,_India-Remote_Open-28a745?style=for-the-badge)](#)
 
-</div>
-<p align="center">
-  <img src="./assets/devops-hero.gif" alt="DEVOPS" width="100%" />
-</p>
 ---
+
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
   &nbsp;About Me&nbsp;
@@ -170,13 +167,8 @@ Built a Kubernetes GitOps platform on AWS EC2 using Kind, Docker, Kubernetes, an
     <a href="https://github.com/rushikeshsatwadhar">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rushikeshsatwadhar&theme=algolia" width="31%" align="left" alt="Repos per language" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rushikeshsatwadhar&theme=algolia" width="31%" align="right" alt="Most commit language" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?
-username=rushikeshsatwadhar&theme=algolia" width="31%" align="center" alt="Productive time" />
     </a>
     <br/><br/>
-    <a href="https://github.com/rushikeshsatwadhar">
-      <img src="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/profile-night-view.svg" alt="3D contribution stats" width="100%" />
-    </a>
   </div>
 </details>
 
@@ -192,27 +184,6 @@ username=rushikeshsatwadhar&theme=algolia" width="31%" align="center" alt="Produ
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rushikeshsatwadhar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/github-snake.svg">
-      <img alt="github-snake" src="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/github-snake-dark.svg" width="100%" title="Watch the snake eat my contributions" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rushikeshsatwadhar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rushikeshsatwadhar/rushikeshsatwadhar/output/pacman-contribution-graph.svg" width="100%">
-    </picture>
-  </a>
-</p>
-
-<br/>
 ---
 
 ## 🎓 Education
