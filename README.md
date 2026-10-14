@@ -12,13 +12,17 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushisatwadhar23@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Pune,_India-Remote_Open-28a745?style=for-the-badge)](#)
 
+<p align="center">
+  <a href="https://github.com/rushikeshsatwadhar">
+    <img align="center" src="https://img.shields.io/github/followers/rushikeshsatwadhar?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge" alt="GitHub followers" />
+  </a>
+</p>
+
+</div>
+
 ---
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
-  &nbsp;About Me&nbsp;
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" height="20" align="absmiddle" alt="" />
-</h2>
+## 🚀 About Me
 
 AWS Cloud & DevOps Engineer with hands-on experience in **AWS Cloud and DevOps technologies** through practical projects. Experienced in building and automating cloud infrastructure, CI/CD pipelines, containerized applications, Infrastructure as Code, and Kubernetes-based deployments.
 
@@ -40,7 +44,7 @@ ___
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushikeshsatwadhar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=rushikeshsatwadhar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ___
@@ -137,12 +141,6 @@ Built a Kubernetes GitOps platform on AWS EC2 using Kind, Docker, Kubernetes, an
 <p align="center">
   <a href="https://github.com/rushikeshsatwadhar/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rushi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshsatwadhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rushikeshsatwadhar">
-    <img align="center" src="https://img.shields.io/github/followers/rushikeshsatwadhar?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge" alt="GitHub followers" />
   </a>
 </p>
 
